@@ -1,0 +1,9 @@
+[
+{
+	"modid": "eyeq_playerparticle",
+	"name": "PlayerParticle",
+	"description": "プレイヤーから虹が出る",
+	"authorList": ["eyeq"],
+	"credits": "ayamitsu"
+}
+]
